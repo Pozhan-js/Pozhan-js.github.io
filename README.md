@@ -65,3 +65,11 @@ npm run docs:build
 ```bash
 npm run docs:preview
 ```
+
+5. 部署
+
+```bash
+npm run docs:deploy
+```
+
+`
